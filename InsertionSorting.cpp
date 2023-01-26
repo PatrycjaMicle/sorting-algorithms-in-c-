@@ -8,8 +8,8 @@ using namespace std;
 
 void insertionSorting(int arr[], int n)
 {
-   int i, j, current;
-   for (i = 1; i < n; i++)
+   int j, current;
+   for (int i = 1; i < n; i++)
    {
        current = arr[i];
        j = i-1;
