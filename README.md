@@ -1,4 +1,4 @@
-# Sorting algorithms in c+
+# Sorting algorithms in c++
 
 ## Insertion sort
 
