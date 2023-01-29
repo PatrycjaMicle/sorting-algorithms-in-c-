@@ -22,8 +22,8 @@
 
 
  COMMENT  	I built the algorithm from 2 separate functions, one dividing the array and next sorting. 
-		You can see the exact code in quickSort.cpp  file. 
-		Explanations are added as a comments.
+		You can see the exact code in 'quickSort.cpp'  file. 
+		Explanations are added as comments.
 
 
 ## Used technologies
